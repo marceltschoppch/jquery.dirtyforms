@@ -19,7 +19,6 @@
     "test",
     "tests",
     "lib",
-    "helpers",
     "README.md"
   ],
   "dependencies": {
